@@ -66,66 +66,66 @@ Insurance fraud causes tens of billions of dollars in annual losses across Prope
 
 Domain-specific insurance fraud platforms are predominantly commercial. However, production-grade fraud engines are built using open-source **graph neural networks**, **anomaly detection frameworks**, **gradient boosting algorithms**, and **explainable AI (XAI)** toolkits.
 
-### 🌟 Featured Open-Source Projects (Sorted by GitHub Stars Descending)
+### 🌟 Featured Open-Source Projects (Sorted by GitHub_Stars Descending)
 
 - **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn)** 🤖  
-  [![Star Badge](https://img.shields.io/github/stars/scikit-learn/scikit-learn?style=social&color=white)](https://github.com/scikit-learn/scikit-learn/stargazers)  
+  [![Stars_Badge](https://img.shields.io/github/stars/scikit-learn/scikit-learn?style=social&color=white)](https://github.com/scikit-learn/scikit-learn/stargazers)  
   *Industry-standard machine learning library in Python used to build supervised risk models, decision trees, and baseline classification pipelines for claims fraud.*
 
 - **[microsoft/graphrag](https://github.com/microsoft/graphrag)** 🕸️  
-  [![Star Badge](https://img.shields.io/github/stars/microsoft/graphrag?style=social&color=white)](https://github.com/microsoft/graphrag/stargazers)  
+  [![Stars_Badge](https://img.shields.io/github/stars/microsoft/graphrag?style=social&color=white)](https://github.com/microsoft/graphrag/stargazers)  
   *Graph-based Retrieval-Augmented Generation framework for discovering complex entity relationships and unstructured text knowledge in claim files.*
 
 - **[dmlc/xgboost](https://github.com/dmlc/xgboost)** ⚡  
-  [![Star Badge](https://img.shields.io/github/stars/dmlc/xgboost?style=social&color=white)](https://github.com/dmlc/xgboost/stargazers)  
+  [![Stars_Badge](https://img.shields.io/github/stars/dmlc/xgboost?style=social&color=white)](https://github.com/dmlc/xgboost/stargazers)  
   *Scalable, optimized gradient boosting library widely deployed in production for tabular insurance risk scoring and claim fraud classification.*
 
 - **[shap/shap](https://github.com/shap/shap)** 🔍  
-  [![Star Badge](https://img.shields.io/github/stars/shap/shap?style=social&color=white)](https://github.com/shap/shap/stargazers)  
+  [![Stars_Badge](https://img.shields.io/github/stars/shap/shap?style=social&color=white)](https://github.com/shap/shap/stargazers)  
   *Explainable AI toolkit using Shapley Additive exPlanations to explain machine learning predictions to Special Investigation Units (SIU) and auditors.*
 
 - **[pyg-team/pytorch_geometric](https://github.com/pyg-team/pytorch_geometric)** 🧬  
-  [![Star Badge](https://img.shields.io/github/stars/pyg-team/pytorch_geometric?style=social&color=white)](https://github.com/pyg-team/pytorch_geometric/stargazers)  
+  [![Stars_Badge](https://img.shields.io/github/stars/pyg-team/pytorch_geometric?style=social&color=white)](https://github.com/pyg-team/pytorch_geometric/stargazers)  
   *Graph Neural Network (GNN) framework built on PyTorch, ideal for modeling complex relationships between policyholders, claimants, repair shops, and doctors.*
 
 - **[microsoft/LightGBM](https://github.com/microsoft/LightGBM)** 🚀  
-  [![Star Badge](https://img.shields.io/github/stars/microsoft/LightGBM?style=social&color=white)](https://github.com/microsoft/LightGBM/stargazers)  
+  [![Stars_Badge](https://img.shields.io/github/stars/microsoft/LightGBM?style=social&color=white)](https://github.com/microsoft/LightGBM/stargazers)  
   *Fast, high-performance gradient boosting framework tailored for large-scale tabular insurance claims and policy datasets.*
 
 - **[networkx/networkx](https://github.com/networkx/networkx)** 🌐  
-  [![Star Badge](https://img.shields.io/github/stars/networkx/networkx?style=social&color=white)](https://github.com/networkx/networkx/stargazers)  
+  [![Stars_Badge](https://img.shields.io/github/stars/networkx/networkx?style=social&color=white)](https://github.com/networkx/networkx/stargazers)  
   *Python graph analytics library used for building claims networks, finding connected components, and uncovering suspicious fraud rings.*
 
 - **[yzhao062/pyod](https://github.com/yzhao062/pyod)** 🚨  
-  [![Star Badge](https://img.shields.io/github/stars/yzhao062/pyod?style=social&color=white)](https://github.com/yzhao062/pyod/stargazers)  
+  [![Stars_Badge](https://img.shields.io/github/stars/yzhao062/pyod?style=social&color=white)](https://github.com/yzhao062/pyod/stargazers)  
   *Comprehensive Python toolkit for detecting outliers and anomaly scores in unsupervised claims data.*
 
 - **[catboost/catboost](https://github.com/catboost/catboost)** 🐱  
-  [![Star Badge](https://img.shields.io/github/stars/catboost/catboost?style=social&color=white)](https://github.com/catboost/catboost/stargazers)  
+  [![Stars_Badge](https://img.shields.io/github/stars/catboost/catboost?style=social&color=white)](https://github.com/catboost/catboost/stargazers)  
   *High-performance gradient boosting library optimized for categorical features standard in insurance applications (e.g., policy types, medical codes).*
 
 - **[evidentlyai/evidently](https://github.com/evidentlyai/evidently)** 📊  
-  [![Star Badge](https://img.shields.io/github/stars/evidentlyai/evidently?style=social&color=white)](https://github.com/evidentlyai/evidently/stargazers)  
+  [![Stars_Badge](https://img.shields.io/github/stars/evidentlyai/evidently?style=social&color=white)](https://github.com/evidentlyai/evidently/stargazers)  
   *Open-source ML observability platform to evaluate, test, and monitor fraud detection model drift and data quality in production pipelines.*
 
 - **[scikit-learn-contrib/imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn)** ⚖️  
-  [![Star Badge](https://img.shields.io/github/stars/scikit-learn-contrib/imbalanced-learn?style=social&color=white)](https://github.com/scikit-learn-contrib/imbalanced-learn/stargazers)  
+  [![Stars_Badge](https://img.shields.io/github/stars/scikit-learn-contrib/imbalanced-learn?style=social&color=white)](https://github.com/scikit-learn-contrib/imbalanced-learn/stargazers)  
   *Python package relying on scikit-learn for handling severe class imbalance in rare-event fraud classification datasets (e.g., SMOTE, undersampling).*
 
 - **[salesforce/Merlion](https://github.com/salesforce/Merlion)** 📈  
-  [![Star Badge](https://img.shields.io/github/stars/salesforce/Merlion?style=social&color=white)](https://github.com/salesforce/Merlion/stargazers)  
+  [![Stars_Badge](https://img.shields.io/github/stars/salesforce/Merlion?style=social&color=white)](https://github.com/salesforce/Merlion/stargazers)  
   *Python library for time series intelligence, anomaly detection, and forecasting in high-frequency claim submission environments.*
 
 - **[seldonio/alibi-detect](https://github.com/seldonio/alibi-detect)** 🛡️  
-  [![Star Badge](https://img.shields.io/github/stars/seldonio/alibi-detect?style=social&color=white)](https://github.com/seldonio/alibi-detect/stargazers)  
+  [![Stars_Badge](https://img.shields.io/github/stars/seldonio/alibi-detect?style=social&color=white)](https://github.com/seldonio/alibi-detect/stargazers)  
   *Open-source Python library focused on outlier, adversarial, and concept drift detection for enterprise production ML models.*
 
 - **[facebookresearch/pysparnn](https://github.com/facebookresearch/pysparnn)** 🔍  
-  [![Star Badge](https://img.shields.io/github/stars/facebookresearch/pysparnn?style=social&color=white)](https://github.com/facebookresearch/pysparnn/stargazers)  
+  [![Stars_Badge](https://img.shields.io/github/stars/facebookresearch/pysparnn?style=social&color=white)](https://github.com/facebookresearch/pysparnn/stargazers)  
   *Efficient sparse nearest neighbor search in Python for fast similarity matching across large claims and party records.*
 
 - **[safe-graph/UGFraud](https://github.com/safe-graph/UGFraud)** 🕸️  
-  [![Star Badge](https://img.shields.io/github/stars/safe-graph/UGFraud?style=social&color=white)](https://github.com/safe-graph/UGFraud/stargazers)  
+  [![Stars_Badge](https://img.shields.io/github/stars/safe-graph/UGFraud?style=social&color=white)](https://github.com/safe-graph/UGFraud/stargazers)  
   *Unsupervised graph-based fraud detection toolbox implementing Markov Random Fields (MRF) and dense-block algorithms for network fraud patterns.*
 
 ---
